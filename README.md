@@ -1,6 +1,6 @@
 # Forge Todo App
 
-This project contains a Forge custom UI app written in React that displays in a Jira issue panel. 
+This project contains a Forge custom UI app written in React that displays in a Jira issue panel.
 
 See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
 
@@ -54,4 +54,4 @@ See [Get help](https://developer.atlassian.com/platform/forge/get-help/) for how
 Contributions are welcome! Please see CONTRIBUTING.md for details.
 
 ## License
-Copyright (c) 2020 Atlassian and others. Apache 2.0 licensed, see LICENSE file.
+Copyright (c) 2021 Atlassian and others. Apache 2.0 licensed, see LICENSE file.
