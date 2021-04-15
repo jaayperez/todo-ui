@@ -1,0 +1,1 @@
+{"version":3,"file":"storage-adapter.d.ts","sourceRoot":"","sources":["../../src/properties/storage-adapter.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,cAAc;IAC7B,GAAG,CAAC,GAAG,EAAE,MAAM,GAAG,OAAO,CAAC,GAAG,CAAC,CAAC;IAC/B,GAAG,CAAC,GAAG,EAAE,MAAM,EAAE,KAAK,EAAE,GAAG,GAAG,OAAO,CAAC,IAAI,CAAC,CAAC;IAC5C,MAAM,CAAC,GAAG,EAAE,MAAM,GAAG,OAAO,CAAC,IAAI,CAAC,CAAC;CACpC"}

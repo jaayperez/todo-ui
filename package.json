@@ -1,0 +1,15 @@
+{
+  "name": "custom-ui-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  },
+  "dependencies": {
+    "@forge/api": "^1.1.0",
+    "@forge/resolver": "1.1.2"
+  }
+}

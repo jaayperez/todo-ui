@@ -1,0 +1,38 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "@atlaskit/button": "^15.1.5",
+    "@atlaskit/checkbox": "^12.1.0",
+    "@atlaskit/css-reset": "^6.0.5",
+    "@atlaskit/icon": "^21.5.0",
+    "@atlaskit/lozenge": "^10.1.2",
+    "@atlaskit/spinner": "^15.0.7",
+    "@atlaskit/textfield": "^5.0.1",
+    "@atlaskit/theme": "^11.0.3",
+    "@forge/bridge": "1.4.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3",
+    "styled-components": "^5.2.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

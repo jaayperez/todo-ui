@@ -1,0 +1,1 @@
+{"version":3,"file":"confluence-versioned-storage.d.ts","sourceRoot":"","sources":["../../src/properties/confluence-versioned-storage.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,oBAAoB,EAAE,MAAM,0BAA0B,CAAC;AAGhE,qBAAa,0BAA2B,SAAQ,oBAAoB;cAClD,YAAY,CAAC,GAAG,EAAE,MAAM,EAAE,KAAK,EAAE,GAAG,GAAG,OAAO,CAAC,IAAI,CAAC;YAmBtD,iBAAiB;CAUhC"}
